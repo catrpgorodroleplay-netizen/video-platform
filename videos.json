@@ -1,12 +1,3 @@
 {
-  "videos": [
-    {
-      "id": 1,
-      "title": "Пример видео",
-      "description": "Это пример видео для демонстрации",
-      "videoUrl": "https://github.com/ТВОЙ_USERNAME/video-platform/releases/download/v1.0/example.mp4",
-      "author": "Admin",
-      "uploadDate": "2024-01-15"
-    }
-  ]
+  "users": {}
 }
